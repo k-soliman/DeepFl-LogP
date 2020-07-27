@@ -5,7 +5,9 @@ KarLogP a deep neural molecular descriptor
 Pre-requisites: 
 
 conda install -c conda-forge rdkit
+
 pip install mordred 
+
 pip install tensorflow
 
 Then use cd to navigate to the script directory
