@@ -10,7 +10,7 @@ pip install tensorflow
 
 Then use cd to navigate to the script directory
 
-Run the pyton script using:
+Run the python script on the Terminal:
 
 >> python KarLogP_script.py
 
