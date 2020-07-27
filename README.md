@@ -16,7 +16,7 @@ Run the python script on the Terminal:
 
 >> python KarLogP_script.py
 
->> Enter molecule: her enter the SMILE code of the compound of interst
+>> Enter molecule: Please, enter the SMILE code of the compound of interst
 
 >> KarLogP =  [[value]]
 
