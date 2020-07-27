@@ -4,7 +4,7 @@ KarLogP a deep neural molecular descriptor
 
 Installation instruction for windows:
 
-Prior installation: make sure to update conda.
+Prior installation: make sure to update conda & update conda-build separately.
 
 It's recommended to create a new conda environment, as follow: 
 
