@@ -1,6 +1,6 @@
-# KarLogP
+# DeepFl-LogP
 
-KarLogP a deep neural molecular descriptor 
+DeepFl-LogP a deep neural molecular lipophilitcity descriptor
 
 Installation instruction for windows:
 
@@ -26,10 +26,10 @@ Once installation is done, use cd to navigate to the script directory.
 
 Run the python script on the Terminal:
 
-  >> python KarLogP_script.py
+  >> python DeepFl-LogP.py
 
   >> Enter molecule: Please, enter the SMILE code of the compound of interest
 
-  >> KarLogP =  [[value]]
+  >> DeepFl-LogP =  [[value]]
 
 Finished! 
