@@ -1410,5 +1410,5 @@ X_new = X_new.reshape(1, -1)
 
 y_pred = model.predict(X_new, verbose=1)
 
-print("KarLogP = ", y_pred)
+print("DeepFl-LogP = ", y_pred)
 
