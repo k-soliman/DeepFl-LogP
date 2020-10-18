@@ -1,6 +1,6 @@
 # DeepFl-LogP
 
-DeepFl-LogP a deep neural molecular lipophilitcity descriptor
+DeepFl-LogP a deep neural lipophilitcity descriptor
 
 Installation instruction for windows:
 
