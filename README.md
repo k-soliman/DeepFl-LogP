@@ -1,6 +1,6 @@
 # DeepFl-LogP
 
-DeepFl-LogP a deep neural lipophilitcity descriptor
+DeepFl-LogP a deep neural lipophilitcity descriptor.
 
 Installation instruction for windows:
 
@@ -33,3 +33,7 @@ Run the python script on the Terminal:
   >> DeepFl-LogP =  [[value]]
 
 Finished! 
+
+---------------------------------------------------------------------------------------
+
+When using DeepFl-LogP, Cite this paper: https://rdcu.be/chxaY 
