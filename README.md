@@ -36,4 +36,4 @@ Finished!
 
 ---------------------------------------------------------------------------------------
 
-When using DeepFl-LogP, Cite this paper: https://rdcu.be/chxaY 
+When using the DeepFl-LogP tool, Please cite this paper: https://rdcu.be/chxaY 
